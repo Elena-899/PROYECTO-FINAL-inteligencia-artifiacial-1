@@ -1,9 +1,10 @@
-**Sistema Experto para el Diagnóstico y Recomendaciones de Reparaciones en 
-un Taller de Chapería y Pintura utilizando CLIPS**
 **Autor:Elena Canaviri de la Cruz**
 **Materia: Inteligencia Artificial**
 **Gestión: 2026**
+----------------------------------------------------------
 
+**Sistema Experto para el Diagnóstico y Recomendaciones de Reparaciones en 
+un Taller de Chapería y Pintura utilizando CLIPS**
 ---------------------------------------------------
 
 **Descripción**
